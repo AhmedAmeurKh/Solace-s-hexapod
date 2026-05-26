@@ -13,7 +13,7 @@ The choice between a four-legged hexapod and a six-legged one is critical, as mo
 
 An MPU or a gyro could be implemented for more stability, but it isn't really a requirement because the robot self balances with using the fact that it could always have 3 legs grounded (forming a triangle, one of the most stable shapes).
 
-Project Goals:
+# Project Goals:
 
 A remote-controlled hexapod.
 

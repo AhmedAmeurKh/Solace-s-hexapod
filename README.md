@@ -4,7 +4,7 @@ Fallout project link: https://fallout.hackclub.com/projects/3045
 A servo-powered mechanical hexapod inspired by spiders
 
 # What is a hexapod?
-A hexapod is a six-legged (or 4) walking robot modeled on insect locomotion.
+A hexapod is a six-legged walking robot modeled on insect locomotion.
 
 Each leg is driven by three servo motors through a three-segment kinematic chain (coxa, femur, tibia).
 This allows more freedom of movement compared to using three servo motors, as seen in many Arduino projects.

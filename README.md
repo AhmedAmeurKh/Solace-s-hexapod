@@ -1,7 +1,7 @@
 # Solace-s-hexapod
 A spider-inspired mechanical robot, or more commonly known as a hexapod.
 Fallout project link: https://fallout.hackclub.com/projects/3045
-A servo-powered mechanical hexapod inspired by spiders
+
 
 # What is a hexapod?
 A hexapod is a six-legged walking robot modeled on insect locomotion.
